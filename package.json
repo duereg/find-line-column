@@ -1,8 +1,9 @@
 {
   "name": "find-line-column",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Given string and position, return line and column of position",
   "main": "findLineColumn.js",
+  "repository": "git@github.com:duereg/find-line-column.git"
   "directories": {
     "test": "test"
   },
