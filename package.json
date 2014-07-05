@@ -22,6 +22,6 @@
   "author": "Matt Blair",
   "license": "MIT",
   "devDependencies": {
-    "jasmine-node": "^1.14.3"
+    "jasmine-node": "https://github.com/clickinnovation/jasmine-node/tarball/1.14.3-jasmine-reporters-patch"
   }
 }
